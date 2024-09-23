@@ -12,4 +12,7 @@ return {
   -- { import = "astrocommunity.colorscheme.vscode-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.test.neotest" },
+  { import = "astrocommunity.markdown-and-latex/glow-nvim" },
+  { import = "astrocommunity.markdown-and-latex/markdown-preview-nvim" },
+  { import = "astrocommunity.recipes.vscode" },
 }
